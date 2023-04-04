@@ -10,7 +10,6 @@ NapTakLEE's Portfolio
 - Applied programing competency in R.
 - Key Topic: Regression Modeling
 
-## Project III: Sector Rotation Streategy Backtest
-- Inspired by John
-- Rotation based on relative strength of SPDR ETF relative to SPY
-![](./images/Project1Image1.png)
+## Project III: [Python Algo Trading Walk Throught](./P%20Chan%20Algo%20Trading%20Chapter%202.ipynb)
+- A Walk Throught of exmaples in chapter 2 of Algorithmic Trading (P. Chan, 2013)
+- Key Topic: Python, Conintegration, Backtesting
