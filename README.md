@@ -1,7 +1,7 @@
 # NapTakLEE_Portfolio
 NapTakLEE's Portfolio
 
-## Project I: Monte Carlo Margin Maintance Calculation Using Microsoft Excel (2022)
+## Project I: Monte Carlo Margin Maintanence Calculation Using Microsoft Excel (2022)
 - Finding accurate minimum margin deposit to maintance a cross hedging protfolio
 - Key Topic: Monte Carlo Simulation, Mark On Market, Cross Hedging, Futures
 
