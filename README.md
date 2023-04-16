@@ -11,5 +11,5 @@ NapTakLEE's Portfolio
 - Key Topic: Regression Modeling
 
 ## Project III: [Python Algo Trading Walk Through](./P%20Chan%20Algo%20Trading%20Chapter%202%20.ipynb)
-- A Walk Through of exmaples in chapter 2 of Algorithmic Trading (P. Chan, 2013)
+- A Walk Through of examples in chapter 2 of Algorithmic Trading (P. Chan, 2013)
 - Key Topic: Python, Conintegration, Backtesting
